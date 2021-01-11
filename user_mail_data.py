@@ -1,2 +1,2 @@
 EMAIL = "Your mail here"
-PASSWORD = "Your mail password here"
+PASSWORD = "Your email password here"
