@@ -1,2 +1,2 @@
-EMAIL = "samroodali@outlook.com"
-PASSWORD = "Devsamoutlook786"
+EMAIL = "Your mail here"
+PASSWORD = "Your mail password here"
